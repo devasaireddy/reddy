@@ -11,6 +11,7 @@ git checkout -b new branch name
 git checkout main
 git merge new branch name
 #issues
+#make changes in above code
 git add .
 git commit -m "Fix #1: dfggh"
 git push origin main
